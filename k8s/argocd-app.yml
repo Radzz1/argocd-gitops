@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: 'https://github.com/Radzz1/Java-Project-demo.git'
+    repoURL: 'https://github.com/Radzz1/argocd-gitops.git'
     targetRevision: main
     path: k8s
 
