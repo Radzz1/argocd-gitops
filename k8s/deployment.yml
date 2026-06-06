@@ -24,7 +24,7 @@ spec:
       containers:
       - name: sample-app
 
-        image: 945475931981.dkr.ecr.eu-north-1.amazonaws.com/sample-app:1
+        image: 945475931981.dkr.ecr.eu-north-1.amazonaws.com/sample-app:52
 
         imagePullPolicy: Always
 
